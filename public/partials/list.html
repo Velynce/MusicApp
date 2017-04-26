@@ -1,0 +1,7 @@
+<p>Search:</p> <input type="text" id="search" data-ng-model="albumList" placeholder="search">
+  <div data-ng-repeat="album in albums | filter:albumList" id="list">
+  	
+  	<a href="#/details/{{album._id}}" name="{{album._id}}"><h3 class="titles">{{album.title}}</h3></a>
+  </div>
+
+

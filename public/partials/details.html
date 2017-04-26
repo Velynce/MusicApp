@@ -1,0 +1,11 @@
+  <div id="detail">
+    <h2>{{album.title}}</h2>
+    <img ng-src="images/{{album.image}}" alt="album Image">
+    <p>{{album.description}}</p>
+    <p>Genre: {{album.genre}}</p>
+    <h3>Songs:</h3>
+    <ul>
+      <li data-ng-repeat="song in album.songs">{{song.title}}</li>
+    </ul>
+    <a href="#/list" id"back">Back to List</a>
+  </div>

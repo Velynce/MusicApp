@@ -1,0 +1,2656 @@
+//The Album Collection
+{
+        "_id" : ObjectId("58ae1e310252e70b5d5813b3"),
+        "image" : "onex.jpg",
+        "title" : "One-X",
+        "artist" : "Three Days Grace",
+        "description" : "One-X is the second studio album by Canadian rock band Three Days Grace. This is their first album recorded as a four-piece band, as Barry Stock joined the group and took over lead guitar from lead singer Adam Gontier.",
+        "year" : "2006",
+        "label" : "Jive Records",
+        "producer" : "Howard Benson",
+        "genre" : [
+                "Alternative rock",
+                "Alternative metal",
+                "Post-grunge",
+                "Hard rock"
+        ],
+        "songs" : [
+                ObjectId("58ae743e0252e70b5d5813c6"),
+                ObjectId("58ae743e0252e70b5d5813c7"),
+                ObjectId("58ae762f0252e70b5d5813c8"),
+                ObjectId("58ae762f0252e70b5d5813c9"),
+                ObjectId("58ae762f0252e70b5d5813ca"),
+                ObjectId("58ae762f0252e70b5d5813cb"),
+                ObjectId("58ae762f0252e70b5d5813cc"),
+                ObjectId("58ae762f0252e70b5d5813cd"),
+                ObjectId("58ae762f0252e70b5d5813ce"),
+                ObjectId("58ae762f0252e70b5d5813cf"),
+                ObjectId("58ae762f0252e70b5d5813d0"),
+                ObjectId("58ae762f0252e70b5d5813d1")
+        ]
+}
+{
+        "_id" : ObjectId("58ae1e310252e70b5d5813b4"),
+        "image" : "resistance.jpg",
+        "title" : "Monstercat 026 - Resistance",
+        "artist" : "Various Artists",
+        "description" : "Monstercat 026 - Resistance is a compilation album by the electronic music record label Monstercat. The album was released on March 21, 2016, exactly one week after the pre-order was announced. The album features 30 original songs and two album mixes.",
+        "year" : "2016",
+        "label" : "Monstercat",
+        "producer" : "",
+        "genre" : [
+                "Dance",
+                "Electronic"
+        ],
+        "songs" : [
+                ObjectId("58ae7d24790de374d90e3d65"),
+                ObjectId("58ae7d24790de374d90e3d66"),
+                ObjectId("58ae7d24790de374d90e3d67"),
+                ObjectId("58ae7d24790de374d90e3d68"),
+                ObjectId("58ae7d24790de374d90e3d69"),
+                ObjectId("58ae7d24790de374d90e3d6a"),
+                ObjectId("58ae7d24790de374d90e3d6b"),
+                ObjectId("58ae7d24790de374d90e3d6c"),
+                ObjectId("58ae7d24790de374d90e3d6d"),
+                ObjectId("58ae7d24790de374d90e3d6e"),
+                ObjectId("58af76c290dcacbae71b9162"),
+                ObjectId("58af76c290dcacbae71b9163"),
+                ObjectId("58af76c290dcacbae71b9164"),
+                ObjectId("58af76c290dcacbae71b9165"),
+                ObjectId("58af76c290dcacbae71b9166"),
+                ObjectId("58af76c290dcacbae71b9167"),
+                ObjectId("58af76c290dcacbae71b9168"),
+                ObjectId("58af76c290dcacbae71b9169"),
+                ObjectId("58af76c290dcacbae71b916a"),
+                ObjectId("58af76c290dcacbae71b916b"),
+                ObjectId("58af76c290dcacbae71b916c"),
+                ObjectId("58af76c290dcacbae71b916d"),
+                ObjectId("58af76c290dcacbae71b916e"),
+                ObjectId("58af76c290dcacbae71b916f"),
+                ObjectId("58af76c290dcacbae71b9170"),
+                ObjectId("58af76c290dcacbae71b9171"),
+                ObjectId("58af76c290dcacbae71b9172"),
+                ObjectId("58af76c290dcacbae71b9173"),
+                ObjectId("58af76c290dcacbae71b9174"),
+                ObjectId("58af76c290dcacbae71b9175"),
+                ObjectId("58af76c290dcacbae71b9176"),
+                ObjectId("58af76c290dcacbae71b9177"),
+                ObjectId("58af76c290dcacbae71b9178"),
+                ObjectId("58af76c290dcacbae71b9179")
+        ]
+}
+{
+        "_id" : ObjectId("58ae6c680252e70b5d5813b5"),
+        "image" : "rage.jpg",
+        "title" : "Of Beauty and Rage",
+        "artist" : "Red",
+        "description" : "Of Beauty and Rage is the fifth studio album from American rock band Red. Released via producer Rob Graves through Essential Records on February 24, 2015, the album included a PledgeMusic campaign.",
+        "year" : "2015",
+        "label" : "Essential Records",
+        "producer" : "Rob Graves",
+        "genre" : [
+                "Alternative rock",
+                "Alternative metal"
+        ],
+        "songs" : [
+                ObjectId("58af7c8e90dcacbae71b917a"),
+                ObjectId("58af7c8e90dcacbae71b917b"),
+                ObjectId("58af7c8e90dcacbae71b917c"),
+                ObjectId("58af7c8e90dcacbae71b917d"),
+                ObjectId("58af7c8e90dcacbae71b917e"),
+                ObjectId("58af7c8e90dcacbae71b917f"),
+                ObjectId("58af7c8e90dcacbae71b9180"),
+                ObjectId("58af7c8e90dcacbae71b9181"),
+                ObjectId("58af7c8e90dcacbae71b9182"),
+                ObjectId("58af7c8e90dcacbae71b9183"),
+                ObjectId("58af7c8e90dcacbae71b9184"),
+                ObjectId("58af7c8e90dcacbae71b9185"),
+                ObjectId("58af7c8e90dcacbae71b9186"),
+                ObjectId("58af7c8e90dcacbae71b9187"),
+                ObjectId("58af7c8e90dcacbae71b9188")
+        ]
+}
+{
+        "_id" : ObjectId("58ae6c680252e70b5d5813b6"),
+        "image" : "life.jpg",
+        "title" : "The Most Beautiful Moment in Life: Young Forever",
+        "artist" : "BTS",
+        "description" : "The Most Beautiful Moment in Life: Young Forever is the first compilation album of South Korean boy group, BTS. The special album was released on May 2, 2016, supported with three music videos.",
+        "year" : "2016",
+        "label" : "Big Hit Entertainment",
+        "producer" : "Pdogg",
+        "genre" : [
+                "K-pop",
+                "Pop",
+                "Dance"
+        ],
+        "songs" : [
+                ObjectId("58af86b0b477cd89fafe87cf"),
+                ObjectId("58af86b0b477cd89fafe87d0"),
+                ObjectId("58af86b0b477cd89fafe87d1"),
+                ObjectId("58af86b0b477cd89fafe87d2"),
+                ObjectId("58af86b0b477cd89fafe87d3"),
+                ObjectId("58af86b0b477cd89fafe87d4"),
+                ObjectId("58af86b0b477cd89fafe87d5"),
+                ObjectId("58af86b0b477cd89fafe87d6"),
+                ObjectId("58af86b0b477cd89fafe87d7"),
+                ObjectId("58af86b0b477cd89fafe87d8"),
+                ObjectId("58af86b0b477cd89fafe87d9"),
+                ObjectId("58af86b0b477cd89fafe87da"),
+                ObjectId("58af86b0b477cd89fafe87db"),
+                ObjectId("58af86b0b477cd89fafe87dc"),
+                ObjectId("58af86b0b477cd89fafe87dd"),
+                ObjectId("58af86b0b477cd89fafe87de"),
+                ObjectId("58af86b0b477cd89fafe87df"),
+                ObjectId("58af86b0b477cd89fafe87e0"),
+                ObjectId("58af86b0b477cd89fafe87e1"),
+                ObjectId("58af86b0b477cd89fafe87e2"),
+                ObjectId("58af86b0b477cd89fafe87e3"),
+                ObjectId("58af86b0b477cd89fafe87e4"),
+                ObjectId("58af86b0b477cd89fafe87e5")
+        ]
+}
+{
+        "_id" : ObjectId("58ae6f460252e70b5d5813b7"),
+        "image" : "wings.jpg",
+        "title" : "Wings",
+        "artist" : "BTS",
+        "description" : "Wings is the second studio album by South Korean boy group BTS. The album was released on October 10, 2016 and contains 15 tracks, with 'Blood Sweat & Tears' as its first single, and seven solo songs recorded by the members.",
+        "year" : "2016",
+        "label" : "Loen Entertainment",
+        "producer" : "Pdogg",
+        "genre" : [
+                "K-pop",
+                "pop",
+                "Hip-Hop/Rap"
+        ],
+        "songs" : [
+                ObjectId("58af8cbfb477cd89fafe87e6"),
+                ObjectId("58af8cbfb477cd89fafe87e7"),
+                ObjectId("58af8cbfb477cd89fafe87e8"),
+                ObjectId("58af8cbfb477cd89fafe87e9"),
+                ObjectId("58af8cbfb477cd89fafe87ea"),
+                ObjectId("58af8cbfb477cd89fafe87eb"),
+                ObjectId("58af8cbfb477cd89fafe87ec"),
+                ObjectId("58af8cbfb477cd89fafe87ed"),
+                ObjectId("58af8cbfb477cd89fafe87ee"),
+                ObjectId("58af8cbfb477cd89fafe87ef"),
+                ObjectId("58af8cbfb477cd89fafe87f0"),
+                ObjectId("58af8cbfb477cd89fafe87f1"),
+                ObjectId("58af8cbfb477cd89fafe87f2"),
+                ObjectId("58af8cbfb477cd89fafe87f3"),
+                ObjectId("58af8cbfb477cd89fafe87f4")
+        ]
+}
+{
+        "_id" : ObjectId("58ae6f460252e70b5d5813b8"),
+        "image" : "party.jpg",
+        "title" : "The After Party",
+        "artist" : "Ghost Town",
+        "description" : "The After Party is the second album by the American electronic rock band Ghost Town. It debuted at #1 on the Billboard New Artists and Heatseekers charts. The track You're So Creepy was also on their debut album, Party in the Graveyard.",
+        "year" : "2014",
+        "label" : "Fueled by Ramen",
+        "producer" : "",
+        "genre" : [
+                "Alternative",
+                "Rock",
+                "Electronic",
+                "Dance",
+                "Metal"
+        ],
+        "songs" : [
+                ObjectId("58af900cb477cd89fafe87f5"),
+                ObjectId("58af900cb477cd89fafe87f6"),
+                ObjectId("58af900cb477cd89fafe87f7"),
+                ObjectId("58af900cb477cd89fafe87f8"),
+                ObjectId("58af900cb477cd89fafe87f9"),
+                ObjectId("58af900cb477cd89fafe87fa"),
+                ObjectId("58af900cb477cd89fafe87fb"),
+                ObjectId("58af900cb477cd89fafe87fc"),
+                ObjectId("58af900cb477cd89fafe87fd"),
+                ObjectId("58af900cb477cd89fafe87fe"),
+                ObjectId("58af900cb477cd89fafe87ff")
+        ]
+}
+{
+        "_id" : ObjectId("58ae70090252e70b5d5813b9"),
+        "image" : "evolution.jpg",
+        "title" : "Evolution",
+        "artist" : "Ghost Town",
+        "description" : "Evolution is the third studio album by the American electronic rock band Ghost Town. It was released on November 6, 2015 through Fueled by Ramen. The first single from the album, 'Spark', was released on October 16, 2015.",
+        "year" : "2015",
+        "label" : "Fueled by Ramen",
+        "producer" : "",
+        "genre" : [
+                "Alternative",
+                "Rock"
+        ],
+        "songs" : [
+                ObjectId("58af916cb477cd89fafe8800"),
+                ObjectId("58af916cb477cd89fafe8801"),
+                ObjectId("58af916cb477cd89fafe8802"),
+                ObjectId("58af916cb477cd89fafe8803"),
+                ObjectId("58af916cb477cd89fafe8804"),
+                ObjectId("58af916cb477cd89fafe8805"),
+                ObjectId("58af916cb477cd89fafe8806"),
+                ObjectId("58af916cb477cd89fafe8807"),
+                ObjectId("58af916cb477cd89fafe8808"),
+                ObjectId("58af916cb477cd89fafe8809"),
+                ObjectId("58af916cb477cd89fafe880a")
+        ]
+}
+{
+        "_id" : ObjectId("58ae70090252e70b5d5813ba"),
+        "image" : "riot.jpg",
+        "title" : "Riot!",
+        "artist" : "Paramore",
+        "description" : "Riot! is the second studio album by American rock band Paramore. It was released in the United States on June 12, 2007 through Fueled by Ramen as a follow-up to their debut album, All We Know Is Falling.",
+        "year" : "2007",
+        "label" : "Fueled by Ramen",
+        "producer" : "David Bendeth",
+        "genre" : [
+                "Alternative",
+                "Punk"
+        ],
+        "songs" : [
+                ObjectId("58af9316b477cd89fafe880b"),
+                ObjectId("58af9316b477cd89fafe880c"),
+                ObjectId("58af9316b477cd89fafe880d"),
+                ObjectId("58af9316b477cd89fafe880e"),
+                ObjectId("58af9316b477cd89fafe880f"),
+                ObjectId("58af9316b477cd89fafe8810"),
+                ObjectId("58af9316b477cd89fafe8811"),
+                ObjectId("58af9316b477cd89fafe8812"),
+                ObjectId("58af9316b477cd89fafe8813"),
+                ObjectId("58af9316b477cd89fafe8814"),
+                ObjectId("58af9316b477cd89fafe8815")
+        ]
+}
+{
+        "_id" : ObjectId("58ae70090252e70b5d5813bb"),
+        "image" : "midnight.jpg",
+        "title" : "Minutes to Midnight",
+        "artist" : "Linkin Park",
+        "description" : "Minutes to Midnight is the third studio album by American rock band Linkin Park, released on May 14, 2007, through Warner Bros. Records. The album was produced by Mike Shinoda and Rick Rubin.",
+        "year" : "2007",
+        "label" : "Warner Bros. Records Inc",
+        "producer" : [
+                "Rick Rubin",
+                "Mike Shinoda"
+        ],
+        "genre" : [
+                "Alternative",
+                "Rock",
+                "Hard Rock",
+                "Metal"
+        ],
+        "songs" : [
+                ObjectId("58af94adb477cd89fafe8816"),
+                ObjectId("58af94adb477cd89fafe8817"),
+                ObjectId("58af94adb477cd89fafe8818"),
+                ObjectId("58af94adb477cd89fafe8819"),
+                ObjectId("58af94adb477cd89fafe881a"),
+                ObjectId("58af94adb477cd89fafe881b"),
+                ObjectId("58af94adb477cd89fafe881c"),
+                ObjectId("58af94adb477cd89fafe881d"),
+                ObjectId("58af94adb477cd89fafe881e"),
+                ObjectId("58af94adb477cd89fafe881f"),
+                ObjectId("58af94adb477cd89fafe8820"),
+                ObjectId("58af94adb477cd89fafe8821")
+        ]
+}
+{
+        "_id" : ObjectId("58ae70090252e70b5d5813bc"),
+        "image" : "homesick.jpg",
+        "title" : "Homesick",
+        "artist" : "A Day to Remember",
+        "description" : "Homesick is the third studio album by American rock band A Day to Remember, produced by Chad Gilbert and the band, and released in February 2009. It was the band's second album for Victory.",
+        "year" : "2009",
+        "label" : "Victory Records",
+        "producer" : "Chad Gilbert",
+        "genre" : [
+                "Pop punk",
+                "Metalcore",
+                "Post-hardcore"
+        ],
+        "songs" : [
+                ObjectId("58af9703b477cd89fafe8822"),
+                ObjectId("58af9703b477cd89fafe8823"),
+                ObjectId("58af9703b477cd89fafe8824"),
+                ObjectId("58af9703b477cd89fafe8825"),
+                ObjectId("58af9703b477cd89fafe8826"),
+                ObjectId("58af9703b477cd89fafe8827"),
+                ObjectId("58af9703b477cd89fafe8828"),
+                ObjectId("58af9703b477cd89fafe8829"),
+                ObjectId("58af9703b477cd89fafe882a"),
+                ObjectId("58af9703b477cd89fafe882b"),
+                ObjectId("58af9703b477cd89fafe882c"),
+                ObjectId("58af9703b477cd89fafe882d")
+        ]
+}
+{
+        "_id" : ObjectId("58ae70090252e70b5d5813bd"),
+        "image" : "nightmare.jpg",
+        "title" : "Nightmare",
+        "artist" : "Avenged Sevenfold",
+        "description" : "Nightmare is the fifth studio album by American heavy metal band Avenged Sevenfold. It was released on July 27, 2010 through Warner Bros. Records. It was produced by Mike Elizondo and mixed in New York City by noted engineer Andy Wallace.",
+        "year" : "2010",
+        "label" : "Warner Bros. Records",
+        "producer" : "Mike Elizondo",
+        "genre" : [
+                "Rock",
+                "Metal",
+                "Alternative",
+                "Hard Rock"
+        ],
+        "songs" : [
+                ObjectId("58af9846b477cd89fafe882e"),
+                ObjectId("58af9846b477cd89fafe882f"),
+                ObjectId("58af9846b477cd89fafe8830"),
+                ObjectId("58af9846b477cd89fafe8831"),
+                ObjectId("58af9846b477cd89fafe8832"),
+                ObjectId("58af9846b477cd89fafe8833"),
+                ObjectId("58af9846b477cd89fafe8834"),
+                ObjectId("58af9846b477cd89fafe8835"),
+                ObjectId("58af9846b477cd89fafe8836"),
+                ObjectId("58af9846b477cd89fafe8837"),
+                ObjectId("58af9846b477cd89fafe8838")
+        ]
+}
+{
+        "_id" : ObjectId("58ae70e50252e70b5d5813be"),
+        "image" : "sevenfold.jpg",
+        "title" : "Avenged Sevenfold",
+        "artist" : "Avenged Sevenfold",
+        "description" : "Avenged Sevenfold is the fourth studio album by Avenged Sevenfold, released on October 30, 2007 by Warner Bros. Records.",
+        "year" : "2007",
+        "label" : "Warner Bros. Record",
+        "producer" : "Avenged Sevenfold",
+        "genre" : [
+                "metal",
+                "Alternative",
+                "Hard Rock"
+        ],
+        "songs" : [
+                ObjectId("58af9ba2b477cd89fafe8839"),
+                ObjectId("58af9ba2b477cd89fafe883a"),
+                ObjectId("58af9ba2b477cd89fafe883b"),
+                ObjectId("58af9ba2b477cd89fafe883c"),
+                ObjectId("58af9ba2b477cd89fafe883d"),
+                ObjectId("58af9ba2b477cd89fafe883e"),
+                ObjectId("58af9ba2b477cd89fafe883f"),
+                ObjectId("58af9ba2b477cd89fafe8840"),
+                ObjectId("58af9ba2b477cd89fafe8841"),
+                ObjectId("58af9ba2b477cd89fafe8842"),
+                ObjectId("58af9ba2b477cd89fafe8843")
+        ]
+}
+{
+        "_id" : ObjectId("58ae70e50252e70b5d5813bf"),
+        "image" : "evil.jpg",
+        "title" : "City of Evil",
+        "artist" : "Avenged Sevenfold",
+        "description" : "City of Evil is the third studio album by Avenged Sevenfold released on June 7, 2005 by Warner Bros. Records.",
+        "year" : "2005",
+        "label" : "Warner Bros. Record",
+        "producer" : "Andrew Murdock",
+        "genre" : [
+                "Metal",
+                "Rock",
+                "Alternative",
+                "Hard Rock"
+        ],
+        "songs" : [
+                ObjectId("58af9cfcb477cd89fafe8844"),
+                ObjectId("58af9cfcb477cd89fafe8845"),
+                ObjectId("58af9cfcb477cd89fafe8846"),
+                ObjectId("58af9cfcb477cd89fafe8847"),
+                ObjectId("58af9cfcb477cd89fafe8848"),
+                ObjectId("58af9cfcb477cd89fafe8849"),
+                ObjectId("58af9cfcb477cd89fafe884a"),
+                ObjectId("58af9cfcb477cd89fafe884b"),
+                ObjectId("58af9cfcb477cd89fafe884c"),
+                ObjectId("58af9cfcb477cd89fafe884d"),
+                ObjectId("58af9cfcb477cd89fafe884e")
+        ]
+}
+{
+        "_id" : ObjectId("58ae70e50252e70b5d5813c0"),
+        "image" : "roach.jpg",
+        "title" : "...To Be Loved: The Best of Papa Roach",
+        "artist" : "Papa Roach",
+        "description" : "...To Be Loved: The Best of Papa Roach is the first compilation album by Californian rock band Papa Roach. It was released on June 29, 2010. It was the band's final album with Geffen Records, after the band left for Eleven Seven Music.",
+        "year" : "2010",
+        "label" : "Geffen Records",
+        "Producer" : "Jeff Fura",
+        "genre" : [
+                "Rock",
+                "Hard Rock",
+                "Metal"
+        ],
+        "songs" : [
+                ObjectId("58af9f00b477cd89fafe884f"),
+                ObjectId("58af9f00b477cd89fafe8850"),
+                ObjectId("58af9f00b477cd89fafe8851"),
+                ObjectId("58af9f00b477cd89fafe8852"),
+                ObjectId("58af9f00b477cd89fafe8853"),
+                ObjectId("58af9f00b477cd89fafe8854"),
+                ObjectId("58af9f00b477cd89fafe8855"),
+                ObjectId("58af9f00b477cd89fafe8856"),
+                ObjectId("58af9f00b477cd89fafe8857"),
+                ObjectId("58af9f00b477cd89fafe8858"),
+                ObjectId("58af9f00b477cd89fafe8859"),
+                ObjectId("58af9f00b477cd89fafe885a"),
+                ObjectId("58af9f00b477cd89fafe885b"),
+                ObjectId("58af9f00b477cd89fafe885c"),
+                ObjectId("58af9f00b477cd89fafe885d")
+        ]
+}
+{
+        "_id" : ObjectId("58ae724b0252e70b5d5813c1"),
+        "image" : "swaay.jpg",
+        "title" : "Swaay",
+        "artist" : "DNCE",
+        "description" : "SWAAY is the debut extended play by American pop rock band DNCE. The EP was released worldwide on October 23, 2015, by Republic Records. The majority of the EP was co-produced and co-written by lead singer and frontman Joe Jonas.",
+        "year" : "2015",
+        "label" : "Republic Records",
+        "producer" : "DNCE",
+        "genre" : "pop",
+        "songs" : [
+                ObjectId("58af9fceb477cd89fafe885e"),
+                ObjectId("58af9fceb477cd89fafe885f"),
+                ObjectId("58af9fceb477cd89fafe8860"),
+                ObjectId("58af9fceb477cd89fafe8861")
+        ]
+}
+{
+        "_id" : ObjectId("58ae724b0252e70b5d5813c2"),
+        "image" : "down.jpg",
+        "title" : "Upside Down",
+        "artist" : "Set it Off",
+        "description" : "The fourth full-length album from Set It Off, 2016's Upside Down showcases more of the Florida outfit's exuberant, genre-bending punk-pop sound. The album follows the group's similarly ambitious 2014 effort Duality.",
+        "year" : "2016",
+        "label" : "Equal Vision Records",
+        "producer" : "Set it Off",
+        "genre" : [
+                "Pop",
+                "Rock",
+                "Alternative",
+                "Punk"
+        ],
+        "songs" : [
+                ObjectId("58afa153b477cd89fafe8862"),
+                ObjectId("58afa153b477cd89fafe8863"),
+                ObjectId("58afa153b477cd89fafe8864"),
+                ObjectId("58afa153b477cd89fafe8865"),
+                ObjectId("58afa153b477cd89fafe8866"),
+                ObjectId("58afa153b477cd89fafe8867"),
+                ObjectId("58afa153b477cd89fafe8868"),
+                ObjectId("58afa153b477cd89fafe8869"),
+                ObjectId("58afa153b477cd89fafe886a"),
+                ObjectId("58afa153b477cd89fafe886b"),
+                ObjectId("58afa153b477cd89fafe886c"),
+                ObjectId("58afa153b477cd89fafe886d")
+        ]
+}
+{
+        "_id" : ObjectId("58ae724b0252e70b5d5813c3"),
+        "image" : "psycho.jpg",
+        "title" : "American Beauty/American Psycho",
+        "artist" : "Fall Out Boy",
+        "description" : "American Beauty/American Psycho is the sixth studio album by American rock band Fall Out Boy, released on January 16, 2015 through Island Records as the follow-up to the band's comeback album Save Rock and Roll.",
+        "year" : "2015",
+        "label" : "Island Records",
+        "producer" : "Fall Out Boy",
+        "genre" : "Alternative",
+        "songs" : [
+                ObjectId("58afa2a9b477cd89fafe886e"),
+                ObjectId("58afa2a9b477cd89fafe886f"),
+                ObjectId("58afa2a9b477cd89fafe8870"),
+                ObjectId("58afa2a9b477cd89fafe8871"),
+                ObjectId("58afa2a9b477cd89fafe8872"),
+                ObjectId("58afa2a9b477cd89fafe8873"),
+                ObjectId("58afa2a9b477cd89fafe8874"),
+                ObjectId("58afa2a9b477cd89fafe8875"),
+                ObjectId("58afa2a9b477cd89fafe8876"),
+                ObjectId("58afa2a9b477cd89fafe8877"),
+                ObjectId("58afa2a9b477cd89fafe8878")
+        ]
+}
+{
+        "_id" : ObjectId("58ae72970252e70b5d5813c4"),
+        "image" : "bachelor.jpg",
+        "title" : "Death of a Bachelor",
+        "artist" : "Panic! at the Disco",
+        "description" : "Death of a Bachelor is the fifth studio album by American one-man rock band Panic! at the Disco, released January 15, 2016 on Fueled by Ramen and DCD2.",
+        "year" : "2016",
+        "label" : "Fueled by Ramen",
+        "producer" : "Brendon Urie",
+        "genre" : [
+                "Alternative",
+                "Rock",
+                "Punk"
+        ],
+        "songs" : [
+                ObjectId("58afa429b477cd89fafe8879"),
+                ObjectId("58afa429b477cd89fafe887a"),
+                ObjectId("58afa429b477cd89fafe887b"),
+                ObjectId("58afa429b477cd89fafe887c"),
+                ObjectId("58afa429b477cd89fafe887d"),
+                ObjectId("58afa429b477cd89fafe887e"),
+                ObjectId("58afa429b477cd89fafe887f"),
+                ObjectId("58afa429b477cd89fafe8880"),
+                ObjectId("58afa429b477cd89fafe8881"),
+                ObjectId("58afa429b477cd89fafe8882"),
+                ObjectId("58afa429b477cd89fafe8883")
+        ]
+}
+{
+        "_id" : ObjectId("58ae72970252e70b5d5813c5"),
+        "image" : "parade.jpg",
+        "title" : "The Black Parade",
+        "artist" : "My Chemical Romance",
+        "description" : "The Black Parade is the third studio album by American rock band My Chemical Romance. Released on October 23, 2006 through Reprise Records, it was produced by Rob Cavallo, known for having produced multiple albums for Goo Goo Dolls and Green Day.",
+        "year" : "2006",
+        "label" : "Reprise Records",
+        "producer" : "Rob Cavallo",
+        "genre" : [
+                "Alternative",
+                "Punk",
+                "Rocks",
+                "Adult Alternative"
+        ],
+        "songs" : [
+                ObjectId("58afa5d7b477cd89fafe8884"),
+                ObjectId("58afa5d7b477cd89fafe8885"),
+                ObjectId("58afa5d7b477cd89fafe8886"),
+                ObjectId("58afa5d7b477cd89fafe8887"),
+                ObjectId("58afa5d7b477cd89fafe8888"),
+                ObjectId("58afa5d7b477cd89fafe8889"),
+                ObjectId("58afa5d7b477cd89fafe888a"),
+                ObjectId("58afa5d7b477cd89fafe888b"),
+                ObjectId("58afa5d7b477cd89fafe888c"),
+                ObjectId("58afa5d7b477cd89fafe888d"),
+                ObjectId("58afa5d7b477cd89fafe888e"),
+                ObjectId("58afa5d7b477cd89fafe888f"),
+                ObjectId("58afa5d7b477cd89fafe8890"),
+                ObjectId("58afa5d7b477cd89fafe8891")
+        ]
+}
+
+//The Song Collection.
+
+{
+        "_id" : ObjectId("58ae743e0252e70b5d5813c6"),
+        "number" : "1",
+        "title" : "It's All Over",
+        "length" : "4:09",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae743e0252e70b5d5813c7"),
+        "number" : "2",
+        "title" : "Pain",
+        "length" : "3:23",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813c8"),
+        "number" : "3",
+        "title" : "Animal I Have Become",
+        "length" : "3:51",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813c9"),
+        "number" : "4",
+        "title" : "Never Too Late",
+        "length" : "3:29",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813ca"),
+        "number" : "5",
+        "title" : "On My Own",
+        "length" : "3:05",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813cb"),
+        "number" : "6",
+        "title" : "Riot",
+        "length" : "3:27",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813cc"),
+        "number" : "7",
+        "title" : "Get Out Alive",
+        "length" : "4:22",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813cd"),
+        "number" : "8",
+        "title" : "Let It Die",
+        "length" : "3:09",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813ce"),
+        "number" : "9",
+        "title" : "Over and Over",
+        "length" : "3:11",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813cf"),
+        "number" : "10",
+        "title" : "Time of Dying",
+        "length" : "3:06",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813d0"),
+        "number" : "11",
+        "title" : "Gone Forever",
+        "length" : "3:41",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae762f0252e70b5d5813d1"),
+        "number" : "12",
+        "title" : "One-X",
+        "length" : "4:46",
+        "album" : ObjectId("58ae1e310252e70b5d5813b3")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d65"),
+        "number" : "1",
+        "title" : "Do You Don't You",
+        "length" : "4:35",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d66"),
+        "number" : "2",
+        "title" : "Synchronize(feat. Aaron Richard)",
+        "length" : "4:10",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d67"),
+        "number" : "3",
+        "title" : "Devotion",
+        "length" : "5:16",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d68"),
+        "number" : "4",
+        "title" : "All Alone",
+        "length" : "4:06",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d69"),
+        "number" : "5",
+        "title" : "Greatness (feat. Talib Kweli",
+        "length" : "4:30",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d6a"),
+        "number" : "6",
+        "title" : "Antihero",
+        "length" : "3:12",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d6b"),
+        "number" : "7",
+        "title" : "They Just Haven't Seen It (feat. The Nicholas",
+        "length" : "5:20",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d6c"),
+        "number" : "8",
+        "title" : "Into the Wild (feat. Sebastian Lind",
+        "length" : "3:47",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d6d"),
+        "number" : "9",
+        "title" : "On My Way Up",
+        "length" : "3:16",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58ae7d24790de374d90e3d6e"),
+        "number" : "10",
+        "title" : "Clouds (feat. Raycee Jones)",
+        "length" : "5:08",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9162"),
+        "number" : "11",
+        "title" : "I am You",
+        "length" : "3:51",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9163"),
+        "number" : "12",
+        "title" : "On Fire",
+        "length" : "3:50",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9164"),
+        "number" : "13",
+        "title" : "Malicious",
+        "length" : "5:46",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9165"),
+        "number" : "14",
+        "title" : "Fopspeen (Bound 2 U) [feat. All About She]",
+        "length" : "3:36",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9166"),
+        "number" : "15",
+        "title" : "Awake (feat. Colordrive)",
+        "length" : "3:12",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9167"),
+        "number" : "16",
+        "title" : "Enough is Enough (feat. Richard Caddock)",
+        "length" : "3:19",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9168"),
+        "number" : "17",
+        "title" : "A Race Against Time",
+        "length" : "4:06",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9169"),
+        "number" : "18",
+        "title" : "Edge of the World",
+        "length" : "5:13",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b916a"),
+        "number" : "19",
+        "title" : "X-Ray (feat. Jhyve)",
+        "length" : "4:04",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b916b"),
+        "number" : "20",
+        "title" : "New Sky",
+        "length" : "4:32",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b916c"),
+        "number" : "21",
+        "title" : "Pick Up the Phone",
+        "length" : "4:12",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b916d"),
+        "number" : "22",
+        "title" : "Vagabond",
+        "length" : "4:47",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b916e"),
+        "number" : "23",
+        "title" : "Fell Down (feat. Holly Drummond)",
+        "length" : "4:41",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b916f"),
+        "number" : "24",
+        "title" : "All Night",
+        "length" : "3:43",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9170"),
+        "number" : "10",
+        "title" : "Clouds (feat. Raycee Jones)",
+        "length" : "5:08",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9171"),
+        "number" : "10",
+        "title" : "Clouds (feat. Raycee Jones)",
+        "length" : "5:08",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9172"),
+        "number" : "25",
+        "title" : "The Vale (feat. Miyoki)",
+        "length" : "4:42",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9173"),
+        "number" : "26",
+        "title" : "All I See (feat. Laura Brehm)",
+        "length" : "3:24",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9174"),
+        "number" : "27",
+        "title" : "Drowning (feat. Ehiorobo)",
+        "length" : "3:34",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9175"),
+        "number" : "28",
+        "title" : "It Came from Planet Earth",
+        "length" : "3:21",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9176"),
+        "number" : "29",
+        "title" : "Night Goes On (feat. Q'Aila)",
+        "length" : "4:11",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9177"),
+        "number" : "30",
+        "title" : "Queen of Your Heart (feat. Augustus Ghost)",
+        "length" : "5:16",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9178"),
+        "number" : "31",
+        "title" : "Defiance Mix",
+        "length" : "1:06:55",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9179"),
+        "number" : "32",
+        "title" : "Submission Mix",
+        "length" : "50:27",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917a"),
+        "number" : "1",
+        "title" : "Descent",
+        "length" : "1:11",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917b"),
+        "number" : "2",
+        "title" : "Impostor",
+        "length" : "4:18",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917c"),
+        "number" : "3",
+        "title" : "Shadow and Soul",
+        "length" : "5:44",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917d"),
+        "number" : "4",
+        "title" : "Darkest Part",
+        "length" : "4:02",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917e"),
+        "number" : "5",
+        "title" : "Fight to Forget",
+        "length" : "3:28",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917f"),
+        "number" : "6",
+        "title" : "Of These Chains",
+        "length" : "3:53",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9180"),
+        "number" : "7",
+        "title" : "Falling Sky",
+        "length" : "5:26",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9181"),
+        "number" : "8",
+        "title" : "The Forest",
+        "length" : "0:55",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9182"),
+        "number" : "9",
+        "title" : "Yours Again",
+        "length" : "4:49",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9183"),
+        "number" : "10",
+        "title" : "What You Keep Alive",
+        "length" : "5:22",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9184"),
+        "number" : "11",
+        "title" : "Gravity Lies",
+        "length" : "4:33",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9185"),
+        "number" : "12",
+        "title" : "Take Me Over",
+        "length" : "3:51",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9186"),
+        "number" : "13",
+        "title" : "The Ever",
+        "length" : "4:10",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9187"),
+        "number" : "14",
+        "title" : "Part That's Holding On",
+        "length" : "4:45",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9174"),
+        "number" : "27",
+        "title" : "Drowning (feat. Ehiorobo)",
+        "length" : "3:34",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9175"),
+        "number" : "28",
+        "title" : "It Came from Planet Earth",
+        "length" : "3:21",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9176"),
+        "number" : "29",
+        "title" : "Night Goes On (feat. Q'Aila)",
+        "length" : "4:11",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9177"),
+        "number" : "30",
+        "title" : "Queen of Your Heart (feat. Augustus Ghost)",
+        "length" : "5:16",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9178"),
+        "number" : "31",
+        "title" : "Defiance Mix",
+        "length" : "1:06:55",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af76c290dcacbae71b9179"),
+        "number" : "32",
+        "title" : "Submission Mix",
+        "length" : "50:27",
+        "album" : ObjectId("58ae1e310252e70b5d5813b4")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917a"),
+        "number" : "1",
+        "title" : "Descent",
+        "length" : "1:11",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917b"),
+        "number" : "2",
+        "title" : "Impostor",
+        "length" : "4:18",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917c"),
+        "number" : "3",
+        "title" : "Shadow and Soul",
+        "length" : "5:44",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917d"),
+        "number" : "4",
+        "title" : "Darkest Part",
+        "length" : "4:02",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917e"),
+        "number" : "5",
+        "title" : "Fight to Forget",
+        "length" : "3:28",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b917f"),
+        "number" : "6",
+        "title" : "Of These Chains",
+        "length" : "3:53",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9180"),
+        "number" : "7",
+        "title" : "Falling Sky",
+        "length" : "5:26",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9181"),
+        "number" : "8",
+        "title" : "The Forest",
+        "length" : "0:55",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9182"),
+        "number" : "9",
+        "title" : "Yours Again",
+        "length" : "4:49",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9183"),
+        "number" : "10",
+        "title" : "What You Keep Alive",
+        "length" : "5:22",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9184"),
+        "number" : "11",
+        "title" : "Gravity Lies",
+        "length" : "4:33",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9185"),
+        "number" : "12",
+        "title" : "Take Me Over",
+        "length" : "3:51",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9186"),
+        "number" : "13",
+        "title" : "The Ever",
+        "length" : "4:10",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9187"),
+        "number" : "14",
+        "title" : "Part That's Holding On",
+        "length" : "4:45",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+Type "it" for more
+> it
+{
+        "_id" : ObjectId("58af7c8e90dcacbae71b9188"),
+        "number" : "15",
+        "title" : "Ascent",
+        "length" : "3:58",
+        "album" : ObjectId("58ae6c680252e70b5d5813b5")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87cf"),
+        "number" : "1",
+        "title" : "INTRO: 화양연화 The Most Beautiful Moment In Life",
+        "length" : "2:04",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d0"),
+        "number" : "2",
+        "title" : "I Need U",
+        "length" : "3:30",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d1"),
+        "number" : "3",
+        "title" : "잡아줘 Hold Me Tight",
+        "length" : "4:33",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d2"),
+        "number" : "4",
+        "title" : "고엽 Autumn Leaves",
+        "length" : "4:27",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d3"),
+        "number" : "5",
+        "title" : "Butterfly (Prologue Mix)",
+        "length" : "4:55",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d4"),
+        "number" : "6",
+        "title" : "Run",
+        "length" : "3:56",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d5"),
+        "number" : "7",
+        "title" : "Ma City",
+        "length" : "4:16",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d6"),
+        "number" : "8",
+        "title" : "뱁새 Silver Spoon",
+        "length" : "3:53",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d7"),
+        "number" : "9",
+        "title" : "쩔어 DOPE",
+        "length" : "4:00",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d8"),
+        "number" : "10",
+        "title" : "불타오르네 FIRE",
+        "length" : "3:23",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87d9"),
+        "number" : "11",
+        "title" : "Save ME",
+        "length" : "3:16",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87da"),
+        "number" : "12",
+        "title" : "EPILOGUE: Young Forever",
+        "length" : "2:51",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87db"),
+        "number" : "1",
+        "title" : "Converse High",
+        "length" : "3:30",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87dc"),
+        "number" : "2",
+        "title" : "이사 Moving On",
+        "length" : "4:52",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87dd"),
+        "number" : "3",
+        "title" : "Whalien 52",
+        "length" : "4:03",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87de"),
+        "number" : "4",
+        "title" : "Butterfly",
+        "length" : "4:00",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87df"),
+        "number" : "5",
+        "title" : "House of Cards (Full Length Edition)",
+        "length" : "3:46",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87e0"),
+        "number" : "6",
+        "title" : "Love Is Not Over  (Full Length Edition)",
+        "length" : "3:41",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87e1"),
+        "number" : "7",
+        "title" : "I NEED U (Urban Mix)",
+        "length" : "3:35",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87e2"),
+        "number" : "8",
+        "title" : "I NEED U (Remix)",
+        "length" : "3:43",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87e3"),
+        "number" : "9",
+        "title" : "RUN (Ballad Mix)",
+        "length" : "4:17",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87e4"),
+        "number" : "10",
+        "title" : "RUN (Alternative Mix)",
+        "length" : "3:56",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af86b0b477cd89fafe87e5"),
+        "number" : "11",
+        "title" : "Butterfly (Alternative Mix)",
+        "length" : "4:01",
+        "album" : ObjectId("58ae6c680252e70b5d5813b6")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87e6"),
+        "number" : "1",
+        "title" : "Intro: Boy Meets Evil",
+        "length" : "2:01",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87e7"),
+        "number" : "2",
+        "title" : "피 땀 눈물 Blood Sweat & Tears",
+        "length" : "3:37",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87e8"),
+        "number" : "3",
+        "title" : "Begin",
+        "length" : "3:49",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87e9"),
+        "number" : "4",
+        "title" : "Lie",
+        "length" : "3:35",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87ea"),
+        "number" : "5",
+        "title" : "Stigma",
+        "length" : "3:36",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87eb"),
+        "number" : "6",
+        "title" : "First Love",
+        "length" : "3:09",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87ec"),
+        "number" : "7",
+        "title" : "Reflection",
+        "length" : "3:53",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87ed"),
+        "number" : "8",
+        "title" : "Mama",
+        "length" : "3:32",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87ee"),
+        "number" : "9",
+        "title" : "Awake",
+        "length" : "3:46",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87ef"),
+        "number" : "10",
+        "title" : "Lost",
+        "length" : "4:01",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87f0"),
+        "number" : "11",
+        "title" : "BTS Cypher 4",
+        "length" : "4:54",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87f1"),
+        "number" : "12",
+        "title" : "Am I Wrong",
+        "length" : "3:33",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87f2"),
+        "number" : "13",
+        "title" : "21세기 소녀 21st Century Girl",
+        "length" : "3:12",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87f3"),
+        "number" : "14",
+        "title" : "둘! 셋! (그래도 좋은 날이 더 많기를) 2! 3!",
+        "length" : "4:32",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af8cbfb477cd89fafe87f4"),
+        "number" : "15",
+        "title" : "Interlude: Wings",
+        "length" : "2:24",
+        "album" : ObjectId("58ae6f460252e70b5d5813b7")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87f5"),
+        "number" : "1",
+        "title" : "Acid",
+        "length" : "3:26",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87f6"),
+        "number" : "2",
+        "title" : "I'm Weird",
+        "length" : "2:49",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87f7"),
+        "number" : "3",
+        "title" : "Carnival",
+        "length" : "3:46",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87f8"),
+        "number" : "4",
+        "title" : "That's Unusual (Jump)",
+        "length" : "3:03",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87f9"),
+        "number" : "5",
+        "title" : "You're So Creepy",
+        "length" : "2:56",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87fa"),
+        "number" : "6",
+        "title" : "Under Wraps",
+        "length" : "3:33",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87fb"),
+        "number" : "7",
+        "title" : "Black Moon",
+        "length" : "3:27",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87fc"),
+        "number" : "8",
+        "title" : "Hocus Pocus",
+        "length" : "3:08",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87fd"),
+        "number" : "9",
+        "title" : "Dracula",
+        "length" : "3:29",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87fe"),
+        "number" : "10",
+        "title" : "W.F.F",
+        "length" : "3:20",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af900cb477cd89fafe87ff"),
+        "number" : "11",
+        "title" : "I'm a Disaster",
+        "length" : "3:40",
+        "album" : ObjectId("58ae6f460252e70b5d5813b8")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8800"),
+        "number" : "1",
+        "title" : "Spark",
+        "length" : "4:30",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8801"),
+        "number" : "2",
+        "title" : "Evolution",
+        "length" : "3:13",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8802"),
+        "number" : "3",
+        "title" : "Mean Kids",
+        "length" : "4:24",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8803"),
+        "number" : "4",
+        "title" : "Out Alive",
+        "length" : "3:05",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8804"),
+        "number" : "5",
+        "title" : "Human",
+        "length" : "3:20",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8805"),
+        "number" : "6",
+        "title" : "Loner",
+        "length" : "3:43",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8806"),
+        "number" : "7",
+        "title" : "Internet Pirates",
+        "length" : "4:27",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8807"),
+        "number" : "8",
+        "title" : "Interlude",
+        "length" : "1:02",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8808"),
+        "number" : "9",
+        "title" : "Candles",
+        "length" : "3:32",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe8809"),
+        "number" : "10",
+        "title" : "Down",
+        "length" : "3:14",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe880a"),
+        "number" : "11",
+        "title" : "Let Go",
+        "length" : "3:40",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880b"),
+        "number" : "1",
+        "title" : "For a Pessimist, I'm Pretty Optimistic",
+        "length" : "3:48",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880c"),
+        "number" : "2",
+        "title" : "That's What You Get",
+        "length" : "3:40",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880d"),
+        "number" : "3",
+        "title" : "Hallelujah",
+        "length" : "3:23",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880e"),
+        "number" : "4",
+        "title" : "Misery Business",
+        "length" : "3:31",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880f"),
+        "number" : "5",
+        "title" : "When It Rains",
+        "length" : "3:35",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8810"),
+        "number" : "6",
+        "title" : "Let the Flames Begin",
+        "length" : "3:18",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8811"),
+        "number" : "7",
+        "title" : "Miracle",
+        "length" : "3:29",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8812"),
+        "number" : "8",
+        "title" : "Crushcrushcrush",
+        "length" : "3:09",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8813"),
+        "number" : "9",
+        "title" : "We Are Broken",
+        "length" : "3:38",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8814"),
+        "number" : "10",
+        "title" : "Fences",
+        "length" : "3:18",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8815"),
+        "number" : "11",
+        "title" : "Born For This",
+        "length" : "3:59",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8816"),
+        "number" : "1",
+        "title" : "Wake",
+        "length" : "1:40",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8817"),
+        "number" : "2",
+        "title" : "Given Up",
+        "length" : "3:09",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8818"),
+        "number" : "3",
+        "title" : "Leave Out All the Rest",
+        "length" : "3:29",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8819"),
+        "number" : "4",
+        "title" : "Bleed It Out",
+        "length" : "2:44",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881a"),
+        "number" : "5",
+        "title" : "Shadow of the Day",
+        "length" : "4:49",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881b"),
+        "number" : "6",
+        "title" : "What I've Done",
+        "length" : "3:25",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881c"),
+        "number" : "7",
+        "title" : "Hands Held High",
+        "length" : "3:53",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881d"),
+        "number" : "8",
+        "title" : "No More Sorrow",
+        "length" : "3:41",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af916cb477cd89fafe880a"),
+        "number" : "11",
+        "title" : "Let Go",
+        "length" : "3:40",
+        "album" : ObjectId("58ae70090252e70b5d5813b9")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880b"),
+        "number" : "1",
+        "title" : "For a Pessimist, I'm Pretty Optimistic",
+        "length" : "3:48",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880c"),
+        "number" : "2",
+        "title" : "That's What You Get",
+        "length" : "3:40",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880d"),
+        "number" : "3",
+        "title" : "Hallelujah",
+        "length" : "3:23",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880e"),
+        "number" : "4",
+        "title" : "Misery Business",
+        "length" : "3:31",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe880f"),
+        "number" : "5",
+        "title" : "When It Rains",
+        "length" : "3:35",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8810"),
+        "number" : "6",
+        "title" : "Let the Flames Begin",
+        "length" : "3:18",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8811"),
+        "number" : "7",
+        "title" : "Miracle",
+        "length" : "3:29",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8812"),
+        "number" : "8",
+        "title" : "Crushcrushcrush",
+        "length" : "3:09",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8813"),
+        "number" : "9",
+        "title" : "We Are Broken",
+        "length" : "3:38",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8814"),
+        "number" : "10",
+        "title" : "Fences",
+        "length" : "3:18",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af9316b477cd89fafe8815"),
+        "number" : "11",
+        "title" : "Born For This",
+        "length" : "3:59",
+        "album" : ObjectId("58ae70090252e70b5d5813ba")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8816"),
+        "number" : "1",
+        "title" : "Wake",
+        "length" : "1:40",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8817"),
+        "number" : "2",
+        "title" : "Given Up",
+        "length" : "3:09",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8818"),
+        "number" : "3",
+        "title" : "Leave Out All the Rest",
+        "length" : "3:29",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8819"),
+        "number" : "4",
+        "title" : "Bleed It Out",
+        "length" : "2:44",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881a"),
+        "number" : "5",
+        "title" : "Shadow of the Day",
+        "length" : "4:49",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881b"),
+        "number" : "6",
+        "title" : "What I've Done",
+        "length" : "3:25",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881c"),
+        "number" : "7",
+        "title" : "Hands Held High",
+        "length" : "3:53",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881d"),
+        "number" : "8",
+        "title" : "No More Sorrow",
+        "length" : "3:41",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881e"),
+        "number" : "9",
+        "title" : "Valentine's Day",
+        "length" : "3:16",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe881f"),
+        "number" : "10",
+        "title" : "In Between",
+        "length" : "3:16",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8820"),
+        "number" : "11",
+        "title" : "In Pieces",
+        "length" : "3:37",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af94adb477cd89fafe8821"),
+        "number" : "12",
+        "title" : "The Little Things Give You Away",
+        "length" : "6:23",
+        "album" : ObjectId("58ae70090252e70b5d5813bb")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe8822"),
+        "number" : "1",
+        "title" : "The Downfall of Us All",
+        "length" : "3:29",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe8823"),
+        "number" : "2",
+        "title" : "My Life for Hire",
+        "length" : "3:33",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe8824"),
+        "number" : "3",
+        "title" : "I'm Made of Wax, Larry, What Are You Made of?",
+        "length" : "3:00",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe8825"),
+        "number" : "4",
+        "title" : "NJ Legion Iced Tea",
+        "length" : "3:31",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe8826"),
+        "number" : "5",
+        "title" : "Mr. Highway's Thinking About the End",
+        "length" : "4:15",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe8827"),
+        "number" : "6",
+        "title" : "Have Faith in Me",
+        "length" : "3:08",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe8828"),
+        "number" : "7",
+        "title" : "Welcome to the Family",
+        "length" : "2:59",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe8829"),
+        "number" : "8",
+        "title" : "Homesick",
+        "length" : "3:56",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe882a"),
+        "number" : "9",
+        "title" : "Holdin' It Down for the Underground",
+        "length" : "3:23",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe882b"),
+        "number" : "10",
+        "title" : "You Already Know What You Are",
+        "length" : "1:27",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe882c"),
+        "number" : "11",
+        "title" : "Another Song About the Weekend",
+        "length" : "3:45",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9703b477cd89fafe882d"),
+        "number" : "12",
+        "title" : "If It Means a Lot to You",
+        "length" : "4:03",
+        "album" : ObjectId("58ae70090252e70b5d5813bc")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe882e"),
+        "number" : "1",
+        "title" : "Nightmare",
+        "length" : "6:14",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe882f"),
+        "number" : "2",
+        "title" : "Welcome to the Family",
+        "length" : "4:05",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe8830"),
+        "number" : "3",
+        "title" : "Danger Line",
+        "length" : "5:28",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe8831"),
+        "number" : "4",
+        "title" : "Buried Alive",
+        "length" : "6:44",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe8832"),
+        "number" : "5",
+        "title" : "Natural Born Killer",
+        "length" : "5:15",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe8833"),
+        "number" : "6",
+        "title" : "So Far Away",
+        "length" : "5:26",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe8834"),
+        "number" : "6",
+        "title" : "God Hate Us",
+        "length" : "5:19",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe8835"),
+        "number" : "7",
+        "title" : "Victim",
+        "length" : "7:29",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe8836"),
+        "number" : "9",
+        "title" : "Tonight the World Dies",
+        "length" : "4:41",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe8837"),
+        "number" : "10",
+        "title" : "Fiction",
+        "length" : "5:07",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9846b477cd89fafe8838"),
+        "number" : "11",
+        "title" : "Save Me",
+        "length" : "10:56",
+        "album" : ObjectId("58ae70090252e70b5d5813bd")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe8839"),
+        "number" : "1",
+        "title" : "Critical Acclaim",
+        "length" : "5:15",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe883a"),
+        "number" : "2",
+        "title" : "Almost Easy",
+        "length" : "3:54",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe883b"),
+        "number" : "3",
+        "title" : "Scream",
+        "length" : "4:48",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe883c"),
+        "number" : "4",
+        "title" : "Afterlife",
+        "length" : "5:52",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe883d"),
+        "number" : "5",
+        "title" : "Gunslinger",
+        "length" : "4:11",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe883e"),
+        "number" : "6",
+        "title" : "Unbound (The Wild Ride)",
+        "length" : "5:11",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe883f"),
+        "number" : "7",
+        "title" : "Brompton Cocktail",
+        "length" : "4:12",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe8840"),
+        "number" : "8",
+        "title" : "Lost",
+        "length" : "4:12",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe8841"),
+        "number" : "9",
+        "title" : "A Little Piece of Heaven",
+        "length" : "8:00",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe8842"),
+        "number" : "10",
+        "title" : "Dear God",
+        "length" : "6:33",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9ba2b477cd89fafe8843"),
+        "number" : "11",
+        "title" : "Almost Easy (jam-Along Version)",
+        "length" : "3:55",
+        "album" : ObjectId("58ae70e50252e70b5d5813be")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe8844"),
+        "number" : "1",
+        "title" : "Beast and the Harlot",
+        "length" : "5:43",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe8845"),
+        "number" : "2",
+        "title" : "Burn It Down",
+        "length" : "4:58",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe8846"),
+        "number" : "3",
+        "title" : "Blinded in Chains",
+        "length" : "6:34",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe8847"),
+        "number" : "4",
+        "title" : "Bat Country",
+        "length" : "5:11",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe8848"),
+        "number" : "5",
+        "title" : "Trashed and Scattered",
+        "length" : "5:51",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe8849"),
+        "number" : "6",
+        "title" : "Seize the Day",
+        "length" : "5:34",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe884a"),
+        "number" : "7",
+        "title" : "Sidewinder",
+        "length" : "7:01",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe884b"),
+        "number" : "8",
+        "title" : "The Wicked End",
+        "length" : "7:10",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe884c"),
+        "number" : "9",
+        "title" : "Strength of the World",
+        "length" : "9:14",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe884d"),
+        "number" : "10",
+        "title" : "Betrayed",
+        "length" : "6:46",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9cfcb477cd89fafe884e"),
+        "number" : "11",
+        "title" : "M.I.A",
+        "length" : "8:46",
+        "album" : ObjectId("58ae70e50252e70b5d5813bf")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe884f"),
+        "number" : "1",
+        "title" : "Broken Home",
+        "length" : "3:41",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8850"),
+        "number" : "2",
+        "title" : "Last Resort",
+        "length" : "3:20",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8851"),
+        "number" : "3",
+        "title" : "Time and Time Again",
+        "length" : "2:58",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8852"),
+        "number" : "4",
+        "title" : "She Loves Me Not",
+        "length" : "3:31",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8853"),
+        "number" : "5",
+        "title" : "Scars",
+        "length" : "3:28",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8854"),
+        "number" : "6",
+        "title" : "Getting Away With Murder",
+        "length" : "3:10",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8855"),
+        "number" : "7",
+        "title" : "Just Go (Never Look Back)",
+        "length" : "2:56",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8856"),
+        "number" : "8",
+        "title" : "...To Be Loved",
+        "length" : "3:01",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8857"),
+        "number" : "9",
+        "title" : "Reckless",
+        "length" : "3:33",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8858"),
+        "number" : "10",
+        "title" : "Had Enough (Accoustic)",
+        "length" : "4:14",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe8859"),
+        "number" : "11",
+        "title" : "Forever (iTunes Live Session)",
+        "length" : "3:38",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe885a"),
+        "number" : "12",
+        "title" : "Hollywood Whore",
+        "length" : "3:55",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe885b"),
+        "number" : "13",
+        "title" : "Lifeline",
+        "length" : "4:28",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe885c"),
+        "number" : "14",
+        "title" : "Scars (Accoustic Version)",
+        "length" : "3:10",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9f00b477cd89fafe885d"),
+        "number" : "15",
+        "title" : "Caught Dead",
+        "length" : "3:02",
+        "album" : ObjectId("58ae70e50252e70b5d5813c0")
+}
+{
+        "_id" : ObjectId("58af9fceb477cd89fafe885e"),
+        "number" : "1",
+        "title" : "Cake by the Ocean",
+        "length" : "3:38",
+        "album" : ObjectId("58ae724b0252e70b5d5813c1")
+}
+{
+        "_id" : ObjectId("58af9fceb477cd89fafe885f"),
+        "number" : "2",
+        "title" : "Pay My Rent",
+        "length" : "3:13",
+        "album" : ObjectId("58ae724b0252e70b5d5813c1")
+}
+{
+        "_id" : ObjectId("58af9fceb477cd89fafe8860"),
+        "number" : "3",
+        "title" : "Toothbrush",
+        "length" : "3:51",
+        "album" : ObjectId("58ae724b0252e70b5d5813c1")
+}
+{
+        "_id" : ObjectId("58af9fceb477cd89fafe8861"),
+        "number" : "4",
+        "title" : "Jinx",
+        "length" : "3:36",
+        "album" : ObjectId("58ae724b0252e70b5d5813c1")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe8862"),
+        "number" : "1",
+        "title" : "Something New",
+        "length" : "3:25",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe8863"),
+        "number" : "2",
+        "title" : "Uncontainable",
+        "length" : "2:59",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe8864"),
+        "number" : "3",
+        "title" : "Life Afraid",
+        "length" : "3:00",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe8865"),
+        "number" : "4",
+        "title" : "Upside Down",
+        "length" : "3:35",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe8866"),
+        "number" : "5",
+        "title" : "Want",
+        "length" : "3:57",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe8867"),
+        "number" : "6",
+        "title" : "Diamond Girl",
+        "length" : "3:46",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe8868"),
+        "number" : "7",
+        "title" : "Tug of War",
+        "length" : "3:55",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe8869"),
+        "number" : "8",
+        "title" : "Admit It",
+        "length" : "3:23",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe886a"),
+        "number" : "9",
+        "title" : "Hypnotized",
+        "length" : "3:44",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe886b"),
+        "number" : "10",
+        "title" : "Never Know",
+        "length" : "3:14",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe886c"),
+        "number" : "11",
+        "title" : "Crutch",
+        "length" : "3:04",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa153b477cd89fafe886d"),
+        "number" : "12",
+        "title" : "Me w/o Us",
+        "length" : "3:18",
+        "album" : ObjectId("58ae724b0252e70b5d5813c2")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe886e"),
+        "number" : "1",
+        "title" : "Irresistible",
+        "length" : "3:26",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe886f"),
+        "number" : "2",
+        "title" : "American Beauty / American Psycho",
+        "length" : "3:15",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe8870"),
+        "number" : "3",
+        "title" : "Centuries",
+        "length" : "3:48",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe8871"),
+        "number" : "4",
+        "title" : "The Kids Aren't Alright",
+        "length" : "4:20",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe8872"),
+        "number" : "5",
+        "title" : "Uma Thurman",
+        "length" : "3:31",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe8873"),
+        "number" : "6",
+        "title" : "Jet Pack Blues",
+        "length" : "2:59",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe8874"),
+        "number" : "7",
+        "title" : "Novocaine",
+        "length" : "3:46",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe8875"),
+        "number" : "8",
+        "title" : "Fourth of July",
+        "length" : "3:44",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe8876"),
+        "number" : "9",
+        "title" : "Favourite Record",
+        "length" : "3:23",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe8877"),
+        "number" : "10",
+        "title" : "Immortals",
+        "length" : "3:09",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa2a9b477cd89fafe8878"),
+        "number" : "11",
+        "title" : "Twin Skeletons (Hotel In NYC)",
+        "length" : "3:40",
+        "album" : ObjectId("58ae724b0252e70b5d5813c3")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe8879"),
+        "number" : "1",
+        "title" : "Victorious",
+        "length" : "2:58",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe887a"),
+        "number" : "2",
+        "title" : "Don't Threaten Me with a Good Time",
+        "length" : "3:33",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe887b"),
+        "number" : "3",
+        "title" : "Hallelujah",
+        "length" : "3:00",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe887c"),
+        "number" : "4",
+        "title" : "Emperor's New Clothes",
+        "length" : "2:38",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe887d"),
+        "number" : "5",
+        "title" : "Death of Bachelor",
+        "length" : "3:23",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe887e"),
+        "number" : "6",
+        "title" : "Crazy=Genius",
+        "length" : "3:18",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe887f"),
+        "number" : "7",
+        "title" : "LA Devotee",
+        "length" : "3:16",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe8880"),
+        "number" : "8",
+        "title" : "Golden Days",
+        "length" : "4:14",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe8881"),
+        "number" : "9",
+        "title" : "The Good, The Bad and the Dirty",
+        "length" : "2:51",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe8882"),
+        "number" : "10",
+        "title" : "House of Memories",
+        "length" : "3:28",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa429b477cd89fafe8883"),
+        "number" : "11",
+        "title" : "Impossible Year",
+        "length" : "3:22",
+        "album" : ObjectId("58ae72970252e70b5d5813c4")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe8884"),
+        "number" : "1",
+        "title" : "The End",
+        "length" : "1:52",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe8885"),
+        "number" : "2",
+        "title" : "The Dead!",
+        "length" : "3:15",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe8886"),
+        "number" : "3",
+        "title" : "This Is How I Disappear",
+        "length" : "3:59",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe8887"),
+        "number" : "4",
+        "title" : "The Sharpest Lives",
+        "length" : "3:20",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe8888"),
+        "number" : "5",
+        "title" : "Welcome to the Black Parade",
+        "length" : "5:11",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe8889"),
+        "number" : "6",
+        "title" : "I Don't Love You",
+        "length" : "3:58",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe888a"),
+        "number" : "7",
+        "title" : "House of Wolves",
+        "length" : "3:04",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe888b"),
+        "number" : "8",
+        "title" : "Cancer",
+        "length" : "2:22",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe888c"),
+        "number" : "9",
+        "title" : "Mama",
+        "length" : "4:39",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe888d"),
+        "number" : "10",
+        "title" : "Sleep",
+        "length" : "4:43",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe888e"),
+        "number" : "11",
+        "title" : "Teenagers",
+        "length" : "2:41",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe888f"),
+        "number" : "12",
+        "title" : "Disenchanted",
+        "length" : "4:55",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe8890"),
+        "number" : "13",
+        "title" : "Famous Last Words",
+        "length" : "4:59",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}
+{
+        "_id" : ObjectId("58afa5d7b477cd89fafe8891"),
+        "number" : "14",
+        "title" : "Blood (Hidden Track)",
+        "length" : "2:53",
+        "album" : ObjectId("58ae72970252e70b5d5813c5")
+}

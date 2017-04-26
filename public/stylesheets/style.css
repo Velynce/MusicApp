@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+	width: 100%;
+	background: url(../images/music.jpg);
+	background-color: rgba(0,0,0,4.0);
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+	font-size: 25px;
+	font-family: 'Arvo', serif;
+
+}
+
+h2, h3 {
+	color: #663300;
+}
+
+h3 {
+	font-size: 16px;
+	font-family: 'Arvo', serif;	
+}
+
+a {
+  text-decoration:  none;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+	font-size: 16px;
+	line-height: 21px;
+	font-family: 'Supermercado One', cursive;
+	text-shadow: 2px 2px #4d4d4d;
+}
+
+p {
+	font-size: 20px;
+	line-height: 20px;
+	font-family: 'Supermercado One', cursive;
+	text-shadow: 2px 2px #4d4d4d;	
+}
+
+img {
+
+}
+
+p, li, footer, header,a {
+	color: #ffbf00;
+}
+
+#list {
+	padding: 20px 0 0 0;
+	border-bottom: 3px solid #efbf39;
+}
+
+#container {
+	width: 60%;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+footer {
+	
+	padding: 20px;
+	margin: 0;
+	background-color: #663300;
+	text-align: center;
+	font-weight: bold;
+}
+
+header {
+	font-family: 'Supermercado One', cursive;
+	padding: 20px;
+	margin: 0;
+	background-color: #663300;
+	text-align: center;
+}
+
+.back {
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+#search {
+	border-radius: 5px;
+}
+

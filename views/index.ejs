@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link href="https://fonts.googleapis.com/css?family=Arvo:400i|Supermercado+One" rel="stylesheet">
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.10/angular.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.10/angular-ui-router.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular-animate.js"></script>
+    <script src="../javascripts/controller.js"></script>
+  </head>
+  <body data-ng-app="musicApp">
+      <header><h1><%= title %></h1></header>
+    <div id="container"> 
+    	<ui-view>
+    	</ui-view>
+    </div> 
+  </body>
+  <footer id="footer">Copyright &copy; MusicApp</footer>
+</html>
